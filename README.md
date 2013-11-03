@@ -11,9 +11,9 @@ You can see F-Script in action [here](http://www.youtube.com/watch?v=SNVnoulAHbg
 ##How to install##
 You have to have F-Script installed in order to use this workflow (install from [here](http://www.fscript.org/download/download.htm)). After unpacking the F-Script zip file, copy the `FScript.framework` to `/Library/Frameworks`. Then install this workflow. After launching an application into which you want to inject F-Script, open the main application menu, select `Services` and click `Inject_FScript` as shown on the image below.
 
-![inject_fscript](https://raw.github.com/adamnemecek/FScriptAnywhere/screenshots/pic1.png)
+![inject_fscript](https://raw.github.com/adamnemecek/FScriptAnywhere/master/pic1.png)
 
 A new item `F-Script` should appear on the top menu bar as shown on the image below. You can then launch the F-Script environment.
 
-![inject_fscript](https://raw.github.com/adamnemecek/FScriptAnywhere/screenshots/pic2.png).
+![inject_fscript](https://raw.github.com/adamnemecek/FScriptAnywhere/master/pic2.png).
 
