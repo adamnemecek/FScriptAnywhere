@@ -17,3 +17,5 @@ A new item `F-Script` should appear on the top menu bar as shown on the image be
 
 ![inject_fscript](https://raw.github.com/adamnemecek/FScriptAnywhere/master/pic2.png).
 
+##Other considerations##
+For whatever reason the F-Script console treats the input of a single straight quotation mark `'` as a curved unicode quotation mark `‘`. In order to input e.g. a string literal (which is in F-Script delimited by two single straight quotation marks), one must input the straight quotation mark using a key combination `control` + `'`.
